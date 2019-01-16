@@ -1,0 +1,2 @@
+# Referenced at /Users/gregoryhunter/Desktop/CS90Android/Mobile-SDK-Android/Sample Code/app/build/intermediates/merged_manifests/release/processReleaseManifest/merged/AndroidManifest.xml:54
+-keep class com.dji.sdk.sample.internal.controller.DJISampleApplication { <init>(...); }
